@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Akshaya 👋<br><br>🎓 Final Year B.Tech Student (CSE - AI & ML)<br><br>💻 Passionate Full Stack Web Developer<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, and Modern Web Technologies<br><br>🚀 Building real-world projects and continuously improving my development skills<br><br>🌱 Currently learning Advanced Data Structures & Algorithms, React.js, Node.js, and AI Applications<br><br>📍 Andhra Pradesh, India<br><br>---<br><br>## 🚀 About Me<br><br>I am a Final Year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy developing web applications, solving coding challenges, and exploring AI-driven solutions. My goal is to build impactful software products while continuously learning emerging technologies.<br><br>---<br><br>## 🛠️ Technical Skills<br><br>### Programming Languages<br>- Java<br>- Python<br>- JavaScript<br>- C<br><br>### Frontend Development<br>- HTML5<br>- CSS3<br>- JavaScript (ES6+)<br>- React.js<br>- Bootstrap<br><br>### Backend Development<br>- Node.js<br>- Express.js<br><br>### Database Technologies<br>- MySQL<br>- MongoDB<br><br>### AI & Machine Learning<br>- Machine Learning Fundamentals<br>- Data Analysis<br>- AI-Powered Applications<br><br>### Tools & Technologies<br>- Git<br>- GitHub<br>- VS Code<br>- Postman<br>- Canva<br><br>---<br><br>## 📂 Projects<br><br>### AI Resume Analyzer<br>- Resume parsing and skill extraction<br>- ATS score analysis<br>- PDF report generation<br>- Interactive user interface<br><br>### Event Management Website<br>- Event planning platform for weddings, birthdays, and college events<br>- Responsive design<br>- User-friendly interface<br><br>### Personal Portfolio Website<br>- Professional portfolio showcasing skills, projects, and achievements<br>- Responsive web design<br><br>---<br><br>## 💼 Experience<br><br>### Full Stack Web Development & AI-Integrated Marketing Intern<br>**Myna Seva Foundation | Jun 2025 – Jul 2025**<br><br>- Improved website organic traffic through SEO strategies<br>- Enhanced search visibility using keyword optimization<br>- Developed responsive web pages using HTML, CSS, and JavaScript<br>- Tracked and analyzed website performance metrics<br><br>---<br><br>## 🎯 Areas of Interest<br><br>- Full Stack Web Development<br>- Artificial Intelligence<br>- Machine Learning<br>- Software Development<br>- Data Structures & Algorithms<br>- Open Source Contributions<br><br>---<br><br>## 🌟 Soft Skills<br><br>- Problem Solving<br>- Team Collaboration<br>- Communication<br>- Time Management<br>- Adaptability<br>- Continuous Learning<br><br>---<br><br>## 📈 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)<br><br>---<br><br>## 📫 Connect With Me<br><br>📧 Email: your-email@example.com<br><br>💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile<br><br>🌐 Portfolio: Add Your Portfolio Link Here<br><br>---<br><br>### 💡 Quote<br><br>"Consistency and continuous learning are the keys to growth."<br><br>⭐ Feel free to explore my repositories and connect with me!
 
-<!--
-**Akshayat3839/Akshayat3839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshaya-t-b5aaaa371/ |  ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akshaya T) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akradha16@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Akshayat3839&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Akshayat3839&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akshayat3839&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Akshayat3839&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
